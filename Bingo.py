@@ -46,10 +46,10 @@ label4.pack()
 
 Button1 = tk.Button(text=u"Go!", width=10)
 Button2 = tk.Button(text=u"履歴", width=10)
-Button3 = tk.Button(text=u"csv出力",width=10)
+#Button3 = tk.Button(text=u"csv出力",width=10)
 Button1.pack()
 Button2.pack()
-Button3.pack()
+#Button3.pack()
 
 Button1.bind("<Button-1>", bingo)
 Button2.bind("<Button-1>", rireki)
