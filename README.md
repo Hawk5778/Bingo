@@ -8,7 +8,7 @@ GUI library           - **Tkinter**
 ## How to use?
 1.Click the any button
 
-2.Enjoy :)
+2.Enjoy :-)
 
 ## Future
 1.Add color
